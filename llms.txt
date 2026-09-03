@@ -1,0 +1,13 @@
+# Product Teardown
+
+> Evidence-led product, game, and methodology teardown for actionable transfer.
+
+## Primary instructions
+
+- SKILL.md: https://github.com/Fable-Forge/product-teardown/blob/main/SKILL.md
+- Installation: https://github.com/Fable-Forge/product-teardown/blob/main/docs/install.md
+- Update: https://github.com/Fable-Forge/product-teardown/blob/main/docs/update.md
+
+## Install
+
+`npx skills add Fable-Forge/product-teardown`
